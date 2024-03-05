@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\volub\\source\\repos\\Interfazes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|C:\\Users\\volub\\source\\repos\\Interfazes\\interfazes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|solutionrelative:interfazes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|c:\\users\\volub\\source\\repos\\interfazes\\interfazes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|solutionrelative:interfazes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|C:\\Users\\volub\\source\\repos\\Interfazes\\interfazes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|solutionrelative:interfazes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|C:\\Users\\volub\\source\\repos\\Interfazes\\interfazes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|solutionrelative:interfazes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|C:\\Users\\volub\\source\\repos\\Interfazes\\interfazes\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|solutionrelative:interfazes\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|C:\\Users\\volub\\source\\repos\\Interfazes\\interfazes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38334E2B-C0A3-4531-85AF-F278272B35E4}|Interfazes\\Interfazes.csproj|solutionrelative:interfazes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Interfazes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Form1.Designer.cs",
+              "RelativeToolTip": "Interfazes\\Form1.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:08:31.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Form1.cs",
+              "RelativeDocumentMoniker": "Interfazes\\Form1.cs",
+              "ToolTip": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Form1.cs",
+              "RelativeToolTip": "Interfazes\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:11:01.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Cat.cs",
+              "RelativeDocumentMoniker": "Interfazes\\Cat.cs",
+              "ToolTip": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Cat.cs",
+              "RelativeToolTip": "Interfazes\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:07:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Dog.cs",
+              "RelativeDocumentMoniker": "Interfazes\\Dog.cs",
+              "ToolTip": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Dog.cs",
+              "RelativeToolTip": "Interfazes\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:06:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Animal.cs",
+              "RelativeDocumentMoniker": "Interfazes\\Animal.cs",
+              "ToolTip": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Animal.cs",
+              "RelativeToolTip": "Interfazes\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:05:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Form1.cs",
+              "RelativeDocumentMoniker": "Interfazes\\Form1.cs",
+              "ToolTip": "C:\\Users\\volub\\source\\repos\\Interfazes\\Interfazes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfazes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:03:08.65Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

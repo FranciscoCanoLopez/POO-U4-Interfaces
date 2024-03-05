@@ -1,0 +1,16 @@
+C:\Users\volub\source\repos\Interfazes\Interfazes\bin\Debug\net8.0-windows\Interfazes.exe
+C:\Users\volub\source\repos\Interfazes\Interfazes\bin\Debug\net8.0-windows\Interfazes.deps.json
+C:\Users\volub\source\repos\Interfazes\Interfazes\bin\Debug\net8.0-windows\Interfazes.runtimeconfig.json
+C:\Users\volub\source\repos\Interfazes\Interfazes\bin\Debug\net8.0-windows\Interfazes.dll
+C:\Users\volub\source\repos\Interfazes\Interfazes\bin\Debug\net8.0-windows\Interfazes.pdb
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.Form1.resources
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.csproj.GenerateResource.cache
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.AssemblyInfoInputs.cache
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.AssemblyInfo.cs
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.csproj.CoreCompileInputs.cache
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.dll
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\refint\Interfazes.dll
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.pdb
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\Interfazes.genruntimeconfig.cache
+C:\Users\volub\source\repos\Interfazes\Interfazes\obj\Debug\net8.0-windows\ref\Interfazes.dll
